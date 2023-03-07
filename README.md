@@ -1,7 +1,7 @@
 # Calculator.
 
 ## **INDEX**
-* [1.Enter](#)
+* [1.Introduction](#)
 * [2.What did I build?](#)
 * [3.Project Objective](#)
 * [4.Link to demo](#)
@@ -19,5 +19,5 @@ This is a mini presentation of a sum calculator.
 Learn how to use standard HTML5 tags and CSS3 styles.
 
 ## 4. Link to demo
-Here you can see the finished project💚! [Google Clone](https://googlecloeve.netlify.app)
+Here you can see the finished project💚! [calculador] (https://evecalculadora.netlify.app/)
 
